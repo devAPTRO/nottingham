@@ -1,0 +1,29 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background: rgb(226,42,42);
+    background: linear-gradient(90deg, rgba(226,42,42,1) 0%, rgba(130,53,209,1) 50%, rgba(0,122,255,1) 100%);
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+}
+
+h1
+{
+    color: rgb(255, 249, 213);
+}
+
+h2
+{
+    color:aquamarine;
+}
+
+h3
+{
+    color:bisque;
+}
+
+img.rounded-corners 
+{
+    border-radius: 30px;
+}
+
